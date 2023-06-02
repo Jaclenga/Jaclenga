@@ -1,5 +1,13 @@
-👋 Hi, I’m Jack Lenga
-- I’m interested in UX, technical writing, and cybersecurity. I’m currently learning Python and JavaScript, and I’m looking to collaborate on documentation and Python projects
+# 👋 Hi, I’m Jack
+
+I am...
+- interested in anything UX, technical writing, or cybersecurity
+- currently learning Python and network engineering
+- obsessed with bands like Rammstein and Alice in Chains
+- writing about my daily life at https://jaclenga.github.io/
+
+**Disclaimer:** The views on this website are of my own and not necessarily of my employer
+
 
 <!---
 Jaclenga/Jaclenga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
