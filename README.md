@@ -1,4 +1,4 @@
-👋 Hi, I’m @Jaclenga
+👋 Hi, I’m Jack Lenga
 - I’m interested in UX, technical writing, and cybersecurity. I’m currently learning Python and JavaScript, and I’m looking to collaborate on documentation and Python projects
 
 <!---
